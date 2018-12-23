@@ -1,0 +1,48 @@
+body {
+    background: #000;
+    font-family: Arial,Helvetica,sans-serif;
+}
+
+h1, h1, h3, h4, h5, h6 {
+    font-weight: bold;
+    color: #f90;
+    text-align: center;
+    padding: 6.666rem 1.666rem;
+}
+
+h1 { font-size: 3.666rem; }
+h2 { font-size: 2.666rem; }
+h3 { font-size: 1.666rem; }
+
+.qr-code-list {
+    list-style: none;
+}
+.qr-code-list li {
+
+}
+.qr-code-list li img {
+    display: block;
+    width: 100vw;
+    height: 100vw;
+}
+
+input, button {
+    font-size: 3.333rem;
+    color: #cacaca;
+    background: #363636;
+    border: 1px solid transparent;
+    border-radius: 0.0666rem;
+    padding: 0.111rem 0.666rem;
+}
+button {
+    background: #f90;
+    color: #000;
+    font-weight: bold;
+}
+.qr-code-url-go-form input {
+    display: block;
+    margin: 6.666rem auto;
+}
+.qr-code-url-go-form button {
+
+}
